@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://res.cloudinary.com/totolo/image/upload/v1729966910/Banner_bguqec.jpg)
+![Aditya Vikram Singh Banner](https://res.cloudinary.com/totolo/image/upload/v1729966910/github/banner_kennethcode.jpg)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Kenneth</h2>
